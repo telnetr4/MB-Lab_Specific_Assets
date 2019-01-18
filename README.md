@@ -7,4 +7,6 @@ It also includes basic variations of the human female hair asset that comes with
 
 The initial goal is to create analogous assets for the MHC MC dress, hair, skirt, and tights that will properly fight a wide range of MB-Lab assets, eventually including assets for each class of available MB-Lab character asset.
 
+Please visit the road map for more details: https://github.com/blaisefaint/MB-Lab_Specific_Assets/wiki/Roadmap
+
 Thank you.
